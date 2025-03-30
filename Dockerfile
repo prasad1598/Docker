@@ -2,4 +2,4 @@ FROM ubuntu
 
 MAINTAINER Muni Prasad
 
-CMD "uptime"
+CMD "uptime && cal"
